@@ -48,7 +48,7 @@ const App = () => {
 
       <section id="contact">
         <h2>Contact</h2>
-        <p>Email: annadasuudaykiran@example.com</p>
+        <p>Email: udaykiranannadasu@gmail.com</p>
         <p>Phone: +91-9652341926</p>
         <a href="/hiremeuday (2).pdf" download="Annadasu_Uday_Kiran_Resume.pdf">
           <button>Download Resume</button>
