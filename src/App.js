@@ -56,7 +56,7 @@ const App = () => {
   <p>Email: udaykiranannadasu@gmail.com</p>
   <p>Phone: +91-9652341926</p>
   <div className="download-btn-container">
-    <a href="/hiremeuday (2).pdf" download="Annadasu_Uday_Kiran_Resume.pdf">
+    <a href="AUK.pdf" download="Annadasu_Uday_Kiran_Resume.pdf">
       <button className="download-btn">Download Resume</button>
     </a>
   </div>
